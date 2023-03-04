@@ -3,3 +3,7 @@
 # Linear Algebra
 
 # Calculus
+
+# Statistics
+
+
