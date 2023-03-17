@@ -2,11 +2,11 @@
 
 The following topics I will cover here:
 
-# 1. Linear Algebra
+- 1. Linear Algebra
 
-# Calculus
+- 2. Calculus
 
-# Statistics
+-3. Statistics
 
-# Advanced Machine Learning math
+-4. Advanced Machine Learning math
 
