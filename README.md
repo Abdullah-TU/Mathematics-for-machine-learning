@@ -1,6 +1,8 @@
 # 📖 Mathematics for machine learning 🧮
 
-# Linear Algebra
+The following topics I will cover here:
+
+# 1. Linear Algebra
 
 # Calculus
 
